@@ -1,0 +1,35 @@
+{
+    "ROS2.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/salahuddin/ros2_ws/build/serial_motor_demo",
+        "/home/salahuddin/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages",
+        "/home/salahuddin/ros2_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/salahuddin/ros2_ws/build/joint_state_publisher_gui",
+        "/home/salahuddin/ros2_ws/install/joint_state_publisher_gui/lib/python3.10/site-packages",
+        "/home/salahuddin/ros2_ws/build/joint_state_publisher",
+        "/home/salahuddin/ros2_ws/install/joint_state_publisher/lib/python3.10/site-packages",
+        "/home/salahuddin/ros2_ws/build/ball_tracker",
+        "/home/salahuddin/ros2_ws/install/ball_tracker/lib/python3.10/site-packages",
+        "/home/salahuddin/ros2_ws/build/articubot_one_ui",
+        "/home/salahuddin/ros2_ws/install/articubot_one_ui/lib/python3.10/site-packages",
+        "/home/salahuddin/install/ardupilot_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/salahuddin/ros2_ws/build/serial_motor_demo",
+        "/home/salahuddin/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages",
+        "/home/salahuddin/ros2_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/salahuddin/ros2_ws/build/joint_state_publisher_gui",
+        "/home/salahuddin/ros2_ws/install/joint_state_publisher_gui/lib/python3.10/site-packages",
+        "/home/salahuddin/ros2_ws/build/joint_state_publisher",
+        "/home/salahuddin/ros2_ws/install/joint_state_publisher/lib/python3.10/site-packages",
+        "/home/salahuddin/ros2_ws/build/ball_tracker",
+        "/home/salahuddin/ros2_ws/install/ball_tracker/lib/python3.10/site-packages",
+        "/home/salahuddin/ros2_ws/build/articubot_one_ui",
+        "/home/salahuddin/ros2_ws/install/articubot_one_ui/lib/python3.10/site-packages",
+        "/home/salahuddin/install/ardupilot_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
